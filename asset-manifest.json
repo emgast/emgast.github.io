@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emgast/emgast.github.io.git/static/css/main.073c9b0a.css",
-    "main.js": "/emgast/emgast.github.io.git/static/js/main.d222bb3f.js",
-    "static/js/787.cdb75fb8.chunk.js": "/emgast/emgast.github.io.git/static/js/787.cdb75fb8.chunk.js",
-    "static/media/logo.svg": "/emgast/emgast.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/emgast/emgast.github.io.git/index.html",
-    "main.073c9b0a.css.map": "/emgast/emgast.github.io.git/static/css/main.073c9b0a.css.map",
-    "main.d222bb3f.js.map": "/emgast/emgast.github.io.git/static/js/main.d222bb3f.js.map",
-    "787.cdb75fb8.chunk.js.map": "/emgast/emgast.github.io.git/static/js/787.cdb75fb8.chunk.js.map"
+    "main.css": "/emgast.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/emgast.github.io.git/static/js/main.19a58ba1.js",
+    "static/js/787.cdb75fb8.chunk.js": "/emgast.github.io.git/static/js/787.cdb75fb8.chunk.js",
+    "static/media/logo.svg": "/emgast.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emgast.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/emgast.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.19a58ba1.js.map": "/emgast.github.io.git/static/js/main.19a58ba1.js.map",
+    "787.cdb75fb8.chunk.js.map": "/emgast.github.io.git/static/js/787.cdb75fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d222bb3f.js"
+    "static/js/main.19a58ba1.js"
   ]
 }
